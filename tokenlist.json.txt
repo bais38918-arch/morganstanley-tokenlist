@@ -1,0 +1,21 @@
+{
+  "name": "Morgan Stanley Token List",
+  "logoURI": "https://i.postimg.cc/G3FGSCKy/12352222.jpg",
+  "keywords": ["finance", "bank", "investment"],
+  "timestamp": "2025-10-16T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xdc837d225e3ae1a4419b377d8b8856f06311ff67",
+      "name": "Morgan Stanley",
+      "symbol": "MGSTL",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/G3FGSCKy/12352222.jpg",
+      "extensions": {
+        "website": "https://www.morganstanley.com/",
+        "twitter": "https://x.com/MorganStanley"
+      }
+    }
+  ]
+}
